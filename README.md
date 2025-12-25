@@ -57,37 +57,35 @@ This project helps you uncover chat patterns, user activity, emoji usage, most c
 
 ---
 
-## 📦 Installation
 
-### 1️⃣ Clone the repository
+## 📄 WhatsApp Chat Analysis – Output (Images)
 
-```bash
-git clone https://github.com/ganesh333-wq/whatsapp-chat-analysis-main.git
-cd whatsapp-chat-analysis-main
+### Page 1
+![Page 1](output_images/page_1.png)
 
-#2️⃣ Create a virtual environment
-python -m venv .venv
+### Page 2
+![Page 2](output_images/page_2.png)
 
-#3️⃣ Activate environment
-.venv\Scripts\activate
+### Page 3
+![Page 3](output_images/page_3.png)
 
-# 4️⃣ Install dependencies
-pip install -r requirements.txt
+### Page 4
+![Page 4](output_images/page_4.png)
 
-# ▶️ Run the Application
-streamlit run app.py
+### Page 5
+![Page 5](output_images/page_5.png)
 
-### whatsapp-chat-analysis/
-│── app.py                 # Main Streamlit UI
-│── helper.py              # All analysis functions
-│── preprocessor.py        # Chat parsing & cleaning
-│── stop_hinglish.txt      # Stop words for text cleaning
-│── requirements.txt       # Python dependencies
-│── README.md              # Documentation
-│── Procfile               # Deployment file (Heroku)
-│── setup.sh               # Deployment setup script
+### Page 6
+![Page 6](output_images/page_6.png)
 
+### Page 7
+![Page 7](output_images/page_7.png)
 
+### Page 8
+![Page 8](output_images/page_8.png)
+
+### Page 9
+![Page 9](output_images/page_9.png)
 
 
 
